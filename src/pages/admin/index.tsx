@@ -7,7 +7,7 @@ export default function Admin(){
     return(
         <>
             <TopBar />
-            <div className="grid place-items-center mt-36">
+            <div className="grid place-items-center mt-16">
                 <Form/>
             </div> 
         </>
